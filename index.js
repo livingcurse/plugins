@@ -1,13 +1,4 @@
-module.exports = () => ({
-  name: "Quest Autocompleter",
-  description: "Automatically completes Discord quests and claims rewards",
-  author: "Anonymous",
-  version: "1.1.0",
-  color: "#5865F2",
-  icon: "medal",
-  requiresRestart: false,
-
-  onStart: async ({ webpack }) => {
+onStart: async ({ webpack }) => {
     const {
       ApplicationStreamingStore,
       RunningGameStore,
