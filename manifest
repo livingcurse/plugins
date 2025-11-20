@@ -1,0 +1,12 @@
+{
+  "name": "Toast",
+  "description": "This plugin automatically completes Discord quests for you on a timely basis.",
+  "authors": [
+    {
+      "name": "nimaru",
+      "id": "1294759631343587438"
+    }
+  ],
+  "version": "0.9.2",
+  "main": "index.js"
+}
